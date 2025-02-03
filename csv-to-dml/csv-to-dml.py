@@ -25,7 +25,7 @@
 # 	    (252,5,'EXTERNAL INTERCOSTAL');
 # =============================================================
 
-TABLENAME = 'MUSCLE'
+TABLENAME = 'MUSCLE_GROUP'
 
 import csv
 with open('csv-to-dml-input.csv', encoding="utf8") as csvfile:
